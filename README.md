@@ -6,7 +6,7 @@
 <h3 align="center">Software developer from Panama</h3>
 </div>
 <div id="header" align="center">
-  <img src="[https://giphy.com/embed/vb0t1GPvxboaPG6vTZ](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJyNG5tdjh5ZWFzcTlvN3JqenVnZG9heXFoZGRrNjB3YXBodW1yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vb0t1GPvxboaPG6vTZ/giphy.gif)" width="200"/>
+  <img src="<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/vb0t1GPvxboaPG6vTZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ass-hentai-ecchi-vb0t1GPvxboaPG6vTZ">via GIPHY</a></p>" width="200"/>
 </div>
 <br/>
 
